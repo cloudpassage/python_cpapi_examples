@@ -1,0 +1,6 @@
+defaults:
+    # key_id and secret_key are examples, cut-n-paste your actual id and secret, between the quotes.
+    key_id: '6f789bd9'
+    secret_key: '67c46ebbc77ecd4c55fe727ea881591e'
+    api_hostname: "api.cloudpassage.com"
+    api_port: 443
